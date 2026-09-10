@@ -9,9 +9,9 @@ export function App() {
         <img src={minion} alt="Minion" className="logo bun-logo" />
       </div>
 
-      <h1>Minions + React</h1>
+      <h1>Minions  + React</h1>
       <p>
-        Hello from the minions
+        Good morning from the minions!
       </p>
     </div>
   );
